@@ -1,0 +1,58 @@
+[
+    {
+        "name":  "玩家55EC",
+        "score":  678,
+        "wave":  6,
+        "level":  5,
+        "kills":  47,
+        "created_at":  "2026-11-17 22:33:23"
+    },
+    {
+        "name":  "玩家55EC",
+        "score":  898,
+        "wave":  7,
+        "level":  7,
+        "kills":  59,
+        "created_at":  "2026-11-17 22:35:21"
+    },
+    {
+        "name":  "Bronya",
+        "score":  9353,
+        "wave":  15,
+        "level":  41,
+        "kills":  603,
+        "created_at":  "2026-11-17 22:35:47"
+    },
+    {
+        "name":  "玩家55EC",
+        "score":  1215,
+        "wave":  7,
+        "level":  9,
+        "kills":  80,
+        "created_at":  "2026-11-17 22:37:16"
+    },
+    {
+        "name":  "犬瘟热",
+        "score":  606,
+        "wave":  6,
+        "level":  5,
+        "kills":  40,
+        "created_at":  "2026-11-17 22:37:36"
+    },
+    {
+        "name":  "犬瘟热",
+        "score":  1499,
+        "wave":  6,
+        "level":  11,
+        "kills":  110,
+        "created_at":  "2026-11-17 22:39:09"
+    },
+    {
+        "name":  "玩家55EC",
+        "score":  1184,
+        "wave":  7,
+        "level":  9,
+        "kills":  82,
+        "created_at":  "2026-11-17 22:39:18"
+    }
+]

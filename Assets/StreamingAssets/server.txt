@@ -1,0 +1,8 @@
+# 服务器地址列表（客户端启动时依次尝试，用第一个能连通的）
+# 格式：地址|密钥      每行一个，可以写多个
+# 改地址不用重新打包：改这个文件即可（打包后在 游戏名_Data/StreamingAssets/server.txt）
+#
+# 注意：花生壳免费域名只支持 https，写成 http:// 会连不上
+
+http://127.0.0.1:8000|change-me
+https://1326jp29pe913.vicp.fun|change-me

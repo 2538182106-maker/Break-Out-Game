@@ -17,5 +17,5 @@
 - 音效：发射 / 击碎 / 失败
 
 ## 下载 / 在线玩
-- Windows 版：<GitHub Release 或 itch.io 链接>
+- Windows 版：<https://github.com/2538182106-maker/Break-Out-Game/releases/tag/1.2.3.4>
 - 演示视频：<B站链接>
